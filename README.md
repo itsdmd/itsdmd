@@ -1,16 +1,17 @@
-### Hi there 👋
+### Greeting! 👋
 
-<!--
-**itsdmd/itsdmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+&nbsp;
 
-Here are some ideas to get you started:
+#### About me
+🏫 &nbsp; I'm studying bachelor program of **IT Service Science & Software Development** at [VNUHCM - University of Science](https://en.hcmus.edu.vn/) (in affiliation with [AUT](https://www.aut.ac.nz/)), 2021 - 2025.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🦾 &nbsp; I code mainly in **C++** and **Python** 3.
+
+🌱 &nbsp; I'm studying **Java**, **Javascript** + React, **HTML** + CSS (university) and **Rust** (self-teach).
+
+&nbsp;
+
+#### Codiga statistic
+<a href="https://app.codiga.io/public/user/github/itsdmd">
+	<img src="https://api.codiga.io/public/badge/user/github/itsdmd?style=dark" alt="codiga badge" />
+</a>
