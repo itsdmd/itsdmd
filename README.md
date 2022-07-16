@@ -7,7 +7,7 @@
 
 🦾 &nbsp; I code mainly in **C++** and **Python** 3.
 
-🌱 &nbsp; I'm learning **Java**, **Javascript** + React, **HTML** + CSS.
+🌱 &nbsp; I'm learning **Java**, **Javascript** + React, **HTML** + CSS and **PyTorch**.
 
 &nbsp;
 
