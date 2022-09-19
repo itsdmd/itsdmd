@@ -3,7 +3,7 @@
 &nbsp;
 
 #### About me
-🏫 &nbsp; I'm attending bachelor program of **IT Service Science & Software Development** at [VNUHCM - University of Science](https://en.hcmus.edu.vn/) (in affiliation with [AUT](https://www.aut.ac.nz/)), 2021 - 2025.
+🏫 &nbsp; I'm attending bachelor program of **IT Service Science & Software Development** at [VNUHCM - University of Science](https://en.hcmus.edu.vn/) (in affiliation with [AUT](https://www.aut.ac.nz/)).
 
 🦾 &nbsp; I code mainly in **C++** and **Python**.
 
