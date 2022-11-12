@@ -12,6 +12,6 @@
 &nbsp;
 
 #### Codiga statistic
-<a href="https://app.codiga.io/public/user/github/itsdmd">
-	<img src="https://api.codiga.io/public/badge/user/github/itsdmd?style=dark" alt="codiga badge" />
+<a href="https://app.codiga.io/hub/user/github">
+   <img src="https://api.codiga.io/public/badge/user/github/itsdmd?style=dark" alt="codiga badge" />
 </a>
