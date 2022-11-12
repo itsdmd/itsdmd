@@ -3,11 +3,11 @@
 &nbsp;
 
 #### About me
-🏫 &nbsp; I'm attending bachelor program of **IT Service Science & Software Development** at [VNUHCM - University of Science](https://en.hcmus.edu.vn/) (in affiliation with [AUT](https://www.aut.ac.nz/)).
+:school: &nbsp; Attending bachelor program of **IT Service Science & Software Development** at [VNUHCM - University of Science](https://en.hcmus.edu.vn/) (in affiliation with [AUT](https://www.aut.ac.nz/)).
 
-🦾 &nbsp; I code mainly in **C++** and **Python**.
+:mechanical_arm: &nbsp; Familiar with &nbsp; :large_blue_circle: **C++**, &nbsp; :purple_square: **C#** &nbsp; and &nbsp; :snake: **Python**.
 
-🌱 &nbsp; I'm learning **JavaScript** + React, **HTML** + CSS and **Rust**.
+:beginner: &nbsp; Learning &nbsp; :lemon: **JavaScript** + React, &nbsp; :shield: **HTML** + CSS &nbsp; and &nbsp; :crab: **Rust**.
 
 &nbsp;
 
