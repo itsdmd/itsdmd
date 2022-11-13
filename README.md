@@ -7,7 +7,7 @@
 
 :mechanical_arm: &nbsp; Familiar with &nbsp; :large_blue_circle: **C++**, &nbsp; :purple_square: **C#** &nbsp; and &nbsp; :snake: **Python**.
 
-:beginner: &nbsp; Learning &nbsp; :lemon: **JavaScript** + React, &nbsp; :shield: **HTML** + CSS &nbsp; and &nbsp; :crab: **Rust**.
+:beginner: &nbsp; Learning &nbsp; :lemon: **JavaScript** + React, &nbsp; :shield: **HTML** + CSS &nbsp; and &nbsp; [:crab: **Rust**](https://github.com/itsdmd/cymuk).
 
 &nbsp;
 
