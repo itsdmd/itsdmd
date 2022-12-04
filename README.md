@@ -10,7 +10,7 @@
 
 :beginner: &nbsp; Learning &nbsp; :lemon: **JavaScript** + React, &nbsp; :shield: **HTML** + CSS &nbsp; and &nbsp; [:crab: **Rust**](https://github.com/itsdmd/cymuk).
 
-:camera: [Photography](https://500px.com/p/itsdmd) as a hobby!
+:camera: &nbsp; [Photography](https://500px.com/p/itsdmd) as a hobby!
 
 &nbsp;
 
