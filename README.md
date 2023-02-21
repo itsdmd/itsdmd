@@ -10,6 +10,8 @@
 
 :beginner: &nbsp; Learning &nbsp; :shield: **HTML** + CSS + **JavaScript** + React.
 
+:file_cabinet: Self-hosting enthusiast (see [what I'm hosting](https://dash.itsdmd.com) on my home-grown server!)
+
 :camera: &nbsp; [Photography](https://500px.com/p/itsdmd) as a hobby!
 
 &nbsp;
