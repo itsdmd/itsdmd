@@ -10,7 +10,7 @@
 
 :beginner: &nbsp; Learning &nbsp; :atom_symbol: **React**.
 
-:file_cabinet: &nbsp; Self-hosting enthusiast (see [what I'm hosting](https://dash.itsdmd.com) on my home-grown server!). _**Note:**_ The server will be down from 18:00-01:00 UTC to save electricity.
+:file_cabinet: &nbsp; Self-hosting enthusiast (see [what I'm hosting](https://dash.itsdmd.com) on my home-grown server!).
 
 :camera: &nbsp; [Photography](https://500px.com/p/itsdmd) as a hobby!
 
