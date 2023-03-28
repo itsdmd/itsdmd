@@ -1,4 +1,4 @@
-### Hi! 👋
+### 👋 Hi, my name is Đức!
 
 &nbsp;
 
@@ -13,6 +13,8 @@
 :file_cabinet: &nbsp; Self-hosting enthusiast (see [what I'm hosting](https://dash.itsdmd.com) on my home-grown server!). _**Note:**_ The server will be down from 18:00-01:00 UTC to save electricity.
 
 :camera: &nbsp; [Photography](https://500px.com/p/itsdmd) as a hobby!
+
+:speaking_head: &nbsp; How to say my name? [IPA Reader](http://ipa-reader.xyz/?text=%C9%97%C9%AF%CB%A7%CB%A5k&voice=Brian)
 
 &nbsp;
 
