@@ -1,4 +1,4 @@
-### 👋 Hi, my name is Đức!
+### 👋 Hi, I'm Đức!
 
 &nbsp;
 
