@@ -6,20 +6,24 @@
 
 :school: &nbsp; Attending bachelor program of **IT Service Science & Software Development** at [VNUHCM - University of Science](https://en.hcmus.edu.vn/) (in affiliation with [AUT](https://www.aut.ac.nz/)).
 
-:mechanical_arm: &nbsp; Familiar with &nbsp; [:large_blue_circle: **C++**](https://github.com/itsdmd/University/tree/1.2/CS104/exc/L), &nbsp; [:purple_square: **C#**](https://github.com/itsdmd/University/tree/2.1/CS202/T/final/FinalProject),  &nbsp; [:card_index_dividers: **SQL**](https://github.com/itsdmd/University/tree/2.2/CS203/L) &nbsp; and &nbsp; [:snake: **Python**](https://github.com/itsdmd/cymuk) &nbsp;! &nbsp; See more [here](https://stackshare.io/itsdmd/familiar).
+:mechanical_arm: &nbsp; Familiar with &nbsp;
 
-:beginner: &nbsp; Learning &nbsp; [:globe_with_meridians: **WebDev**](https://github.com/itsdmd/CS201-Final) &nbsp; and &nbsp; :atom_symbol: **React**.
+[![C++](https://img.shields.io/badge/C%2B%2B-004482?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/itsdmd/University/tree/1.2/CS104/exc/L) &nbsp; [![C#](https://img.shields.io/badge/C%23-682876?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/itsdmd/University/tree/2.1/CS202/T/final/FinalProject) &nbsp; [![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)](https://github.com/itsdmd/cymuk)
 
-:file_cabinet: &nbsp; Self-hosting enthusiast (see [what I'm hosting](https://dash.itsdmd.com) on my home-grown server!).
+[![HTML + CSS](https://img.shields.io/badge/HTML%2BCSS-f06529?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/itsdmd/nikon-clone) &nbsp; [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/itsdmd/CS201-Final) &nbsp; [![Tailwind](https://img.shields.io/badge/Tailwind-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://github.com/itsdmd/PersonalWebsite)
 
-:camera: &nbsp; [Photography](https://500px.com/p/itsdmd) as a hobby!
+[![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&lableColor=323330&logo=javascript&logoColor=323330)](https://github.com/itsdmd/nikon-clone) &nbsp; [![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/itsdmd/PersonalWebsite)
+
+[![SQL](https://img.shields.io/badge/SQL-cc3838?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://github.com/itsdmd/University/tree/2.2/CS203/L) &nbsp; [![MongoDB](https://img.shields.io/badge/MongoDB-3fa037?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/itsdmd/VietnameseNewsAPI/tree/main) &nbsp; and [more](https://stackshare.io/itsdmd/familiar).
+
+:beginner: &nbsp; Learning
+
+[![React](https://img.shields.io/badge/React-61dbfb?style=for-the-badge&logo=react&logoColor=black)](https://github.com/itsdmd/PersonalWebsite) &nbsp; [![GraphQL](https://img.shields.io/badge/GraphQL-e535ab?style=for-the-badge&logo=graphql)](#)
 
 &nbsp;
 
 #### About my workflow
 
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/itsdmd/daily-drivers)
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=for-the-badge)](https://stackshare.io/itsdmd/daily-drivers)
 
-<a href="https://app.codiga.io/hub/user/github">
-   <img src="https://api.codiga.io/public/badge/user/github/itsdmd?style=dark" alt="codiga badge" />
-</a>
+:file_cabinet: &nbsp; Self-hosting enthusiast (see [what I'm hosting](https://dash.itsdmd.com) on my home-grown server!).
