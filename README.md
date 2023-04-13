@@ -14,8 +14,6 @@
 
 :camera: &nbsp; [Photography](https://500px.com/p/itsdmd) as a hobby!
 
-:speaking_head: &nbsp; How to say my name? [IPA Reader](http://ipa-reader.xyz/?text=%C9%97%C9%AF%CB%A7%CB%A5k&voice=Brian) or [Google Translate](https://translate.tiekoetter.com/api/tts/?engine=google&lang=vi&text=%C4%91%E1%BB%A9c).
-
 &nbsp;
 
 #### About my workflow
