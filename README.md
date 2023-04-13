@@ -12,7 +12,7 @@
 
 [![HTML + CSS](https://img.shields.io/badge/HTML%2BCSS-f06529?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/itsdmd/nikon-clone) &nbsp; [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/itsdmd/CS201-Final) &nbsp; [![Tailwind](https://img.shields.io/badge/Tailwind-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://github.com/itsdmd/PersonalWebsite)
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&lableColor=323330&logo=javascript&logoColor=323330)](https://github.com/itsdmd/nikon-clone) &nbsp; [![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/itsdmd/PersonalWebsite)
+[![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&lableColor=323330&logo=javascript&logoColor=323330)](https://github.com/itsdmd/VietnameseNewsAPI/tree/main) &nbsp; [![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/itsdmd/PersonalWebsite)
 
 [![SQL](https://img.shields.io/badge/SQL-cc3838?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://github.com/itsdmd/University/tree/2.2/CS203/L) &nbsp; [![MongoDB](https://img.shields.io/badge/MongoDB-3fa037?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/itsdmd/VietnameseNewsAPI/tree/main) &nbsp; and [more](https://stackshare.io/itsdmd/familiar).
 
