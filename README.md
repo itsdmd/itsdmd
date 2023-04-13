@@ -18,7 +18,7 @@
 
 #### :beginner: &nbsp; **Learning**
 
-[![React](https://img.shields.io/badge/React-61dbfb?style=for-the-badge&logo=react&logoColor=black)](https://github.com/itsdmd/PersonalWebsite) &nbsp; [![GraphQL](https://img.shields.io/badge/GraphQL-e535ab?style=for-the-badge&logo=graphql)](#)
+[![React](https://img.shields.io/badge/React-61dbfb?style=for-the-badge&logo=react&logoColor=black)](https://github.com/itsdmd/PersonalWebsite) &nbsp; [![GraphQL](https://img.shields.io/badge/GraphQL-e535ab?style=for-the-badge&logo=graphql)](#) &nbsp; [![Sass](https://img.shields.io/badge/Sass-cd6799?style=for-the-badge&logo=sass)](#)
 
 &nbsp;
 
