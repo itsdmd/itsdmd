@@ -2,11 +2,11 @@
 
 &nbsp;
 
-#### About me
+### About me
 
 :school: &nbsp; Attending bachelor program of **IT Service Science & Software Development** at [VNUHCM - University of Science](https://en.hcmus.edu.vn/) (in affiliation with [AUT](https://www.aut.ac.nz/)).
 
-:mechanical_arm: &nbsp; Familiar with &nbsp;
+#### :mechanical_arm: &nbsp; Familiar with
 
 [![C++](https://img.shields.io/badge/C%2B%2B-004482?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/itsdmd/University/tree/1.2/CS104/exc/L) &nbsp; [![C#](https://img.shields.io/badge/C%23-682876?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/itsdmd/University/tree/2.1/CS202/T/final/FinalProject) &nbsp; [![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)](https://github.com/itsdmd/cymuk)
 
@@ -16,13 +16,13 @@
 
 [![SQL](https://img.shields.io/badge/SQL-cc3838?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://github.com/itsdmd/University/tree/2.2/CS203/L) &nbsp; [![MongoDB](https://img.shields.io/badge/MongoDB-3fa037?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/itsdmd/VietnameseNewsAPI/tree/main) &nbsp; [![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)](#) &nbsp; and [more](https://stackshare.io/itsdmd/familiar).
 
-:beginner: &nbsp; Learning
+#### :beginner: &nbsp; **Learning**
 
 [![React](https://img.shields.io/badge/React-61dbfb?style=for-the-badge&logo=react&logoColor=black)](https://github.com/itsdmd/PersonalWebsite) &nbsp; [![GraphQL](https://img.shields.io/badge/GraphQL-e535ab?style=for-the-badge&logo=graphql)](#)
 
 &nbsp;
 
-#### About my workflow
+### About my workflow
 
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=for-the-badge)](https://stackshare.io/itsdmd/daily-drivers)
 
