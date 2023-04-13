@@ -6,7 +6,7 @@
 
 :school: &nbsp; Attending bachelor program of **IT Service Science & Software Development** at [VNUHCM - University of Science](https://www.hcmus.edu.vn/) (in affiliation with [Auckland University of Technology](https://www.aut.ac.nz/)).
 
-#### :mechanical_arm: &nbsp; Can Work With
+#### :mechanical_arm: &nbsp; Can work with
 
 [![C++](https://img.shields.io/badge/C%2B%2B-004482?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/itsdmd/University/tree/1.2/CS104/exc/L) &nbsp; [![C#](https://img.shields.io/badge/C%23-682876?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/itsdmd/University/tree/2.1/CS202/T/final/FinalProject) &nbsp; [![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)](https://github.com/itsdmd/cymuk)
 
