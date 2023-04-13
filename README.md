@@ -24,6 +24,6 @@
 
 ### About my workflow
 
-[![Stackshare](https://img.shields.io/badge/Stackshare-008ff9?style=for-the-badge&logo=stackshare)](https://stackshare.io/itsdmd/daily-drivers)
+[![Stackshare](https://img.shields.io/badge/Stackshare-008ff9?style=for-the-badge&logo=stackshare&logoColor=white)](https://stackshare.io/itsdmd/daily-drivers)
 
 :file_cabinet: &nbsp; Self-hosting enthusiast (see [what I'm hosting](https://dash.itsdmd.com) on my home-grown server!).
