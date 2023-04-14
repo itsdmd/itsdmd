@@ -8,7 +8,7 @@
 
 #### :mechanical_arm: &nbsp; Can work with
 
-[![C++](https://img.shields.io/badge/C%2B%2B-004482?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/itsdmd/University/tree/1.2/CS104/exc/L) &nbsp; [![C#](https://img.shields.io/badge/C%23-682876?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/itsdmd/University/tree/2.1/CS202/T/final/FinalProject) &nbsp; [![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)](https://github.com/itsdmd/cymuk)
+[![C++](https://img.shields.io/badge/C%2B%2B-004482?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/itsdmd/University/tree/1.2/CS104/exc/L) &nbsp; [![C#](https://img.shields.io/badge/C%23-682876?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/itsdmd/CS202-Final) &nbsp; [![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)](https://github.com/itsdmd/cymuk)
 
 [![HTML + CSS](https://img.shields.io/badge/HTML%2BCSS-f06529?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/itsdmd/nikon-clone) &nbsp; [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/itsdmd/CS201-Final) &nbsp; [![Tailwind](https://img.shields.io/badge/Tailwind-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://github.com/itsdmd/PersonalWebsite)
 
